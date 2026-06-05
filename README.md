@@ -1,5 +1,5 @@
 # GenAI
-# GenAI Document Retriever – Interview Explanation Guide
+# GenAI Document Retriever –-- Interview Explanation Guide
 
 Here's a complete end-to-end explanation of your project, structured so you can explain it confidently in an interview.
 
